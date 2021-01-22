@@ -1,5 +1,6 @@
 # freezing-of-gait
 Machine learning for freezing of gait detection and prediction in Parkinson's disease.
+
 Parkinson’s disease (PD) is a progressive neurodegenerative disorder affecting movement and is characterized by symptoms such as tremor, rigidity, and Freezing of Gait (FOG). FOG is a walking disturbance seen in more advanced stages of PD. FOG is characterized by the feeling of feet being glued to the ground and has been associated with higher risks of falls. While falling can have great repercussions in individuals with PD, leading to restricted movement and independence, hip fracture, and fatal injury, even the disturbance of FOG alone can lead to decreased mobility, inactivity, and decreased quality of life. Determining methods to counter FOG can potentially lead to a better life for people with PD (PwPD). 
 
 Freezing episodes can be countered with the help of external intervention such as visual or auditory cues. Such intervention when administered during the freeze has been found to alleviate the freeze and thus prevent freeze-related falls. This sheds the importance of detecting or predicting a freeze event. Once a freeze is detected or predicted, an intervention can be administered to help prevent the freeze altogether (in case of prediction) or help resume normal walking (in case of detection). 
